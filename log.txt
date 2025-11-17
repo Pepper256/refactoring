@@ -7,5 +7,5 @@ ecd237a update log Task 2.1
 6432813 refactor StatementPrinter Task 2.1
 fa96887 (origin/main, origin/HEAD, main) Merge pull request #1 from Pepper256/refactoring
 1152fa6 (origin/refactoring) Task 1.2 log git
-93eabf0 refactoring code
+93eabf0 refactoring code Task 1.1
 1cd02f8 Initial commit
