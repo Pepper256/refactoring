@@ -1,2 +1,11 @@
-93eabf0 (HEAD -> refactoring, origin/refactoring) refactoring code
-1cd02f8 (origin/main, origin/HEAD, main) Initial commit
+c879704 (HEAD -> refactor-code) refactor loop Task 2.4
+4067c4d update log Task 2.3
+e1cc914 refactor usd Task 2.3
+d4372bc update log Task 2.2
+8d79c5b refactor getVolumeCredits Task 2.2
+ecd237a update log Task 2.1
+6432813 refactor StatementPrinter Task 2.1
+fa96887 (origin/main, origin/HEAD, main) Merge pull request #1 from Pepper256/refactoring
+1152fa6 (origin/refactoring) Task 1.2 log git
+93eabf0 refactoring code
+1cd02f8 Initial commit
