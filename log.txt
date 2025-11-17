@@ -1,4 +1,6 @@
-8d79c5b (HEAD -> refactor-code) refactor getVolumeCredits Task 2.2
+e1cc914 (HEAD -> refactor-code) refactor usd Task 2.3
+d4372bc update log Task 2.2
+8d79c5b refactor getVolumeCredits Task 2.2
 ecd237a update log Task 2.1
 6432813 refactor StatementPrinter Task 2.1
 fa96887 (origin/main, origin/HEAD, main) Merge pull request #1 from Pepper256/refactoring
