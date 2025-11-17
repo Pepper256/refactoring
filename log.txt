@@ -1,4 +1,6 @@
-c879704 (HEAD -> refactor-code) refactor loop Task 2.4
+0d6d49e (HEAD -> refactor-code) update log Task 1.1
+63947a8 (origin/refactor-code) update log Task 2.4
+c879704 refactor loop Task 2.4
 4067c4d update log Task 2.3
 e1cc914 refactor usd Task 2.3
 d4372bc update log Task 2.2
@@ -7,5 +9,5 @@ ecd237a update log Task 2.1
 6432813 refactor StatementPrinter Task 2.1
 fa96887 (origin/main, origin/HEAD, main) Merge pull request #1 from Pepper256/refactoring
 1152fa6 (origin/refactoring) Task 1.2 log git
-93eabf0 refactoring code Task 1.1
+93eabf0 refactoring code
 1cd02f8 Initial commit
