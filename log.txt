@@ -1,4 +1,6 @@
-6432813 (HEAD -> refactor-code) refactor StatementPrinter Task 2.1
+8d79c5b (HEAD -> refactor-code) refactor getVolumeCredits Task 2.2
+ecd237a update log Task 2.1
+6432813 refactor StatementPrinter Task 2.1
 fa96887 (origin/main, origin/HEAD, main) Merge pull request #1 from Pepper256/refactoring
 1152fa6 (origin/refactoring) Task 1.2 log git
 93eabf0 refactoring code
